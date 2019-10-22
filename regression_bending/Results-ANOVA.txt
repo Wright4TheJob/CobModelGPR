@@ -1,0 +1,7 @@
+Analysis of Variance Table
+Source of variation.	Sum of Square	DOF	               Mean Square	F_0	P-Value
+Soil        	0.03     	7 	0.00    	1.41               	0.200359
+Straw       	0.56     	6 	0.09    	27.32                	0.000000
+Interaction 	25.38 	42 	0.60 	175.59 	0.000000
+Error 	0.96   	280 	0.00
+Total 	26.94   	335
